@@ -49,3 +49,6 @@ class ColorService extends ChangeNotifier {
     notifyListeners();
   }
 }
+
+
+//service color provider
